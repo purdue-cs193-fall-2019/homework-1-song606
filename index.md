@@ -35,3 +35,29 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+## You knew this was coming.
+
+According to all known laws of aviation, there is no way a bee should be able to fly. Its wings are too... okay forget it
+
+[I don't really know why i'm linking this](fanon.clubpenguinwiki.info)
+
+!(Image)[http://img4.smackjeeves.com/images/uploaded/comics/1/2/h/12hkiwnwplLSph.png]
+
+- Alpha
+- Beta
+- Theta
+- Tornado
+- Valkan
+- Rocky
+- Jango
+- Ambulan
+- Metron
+
+1. I
+2. Only
+3. Upload
+4. High
+5. Quality
+6. Video
+7. Game Rips.
