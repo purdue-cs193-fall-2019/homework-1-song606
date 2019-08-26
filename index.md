@@ -1,3 +1,17 @@
+# Danny Song's First CS193 Homework
+- Coding and programs
+- and stuff that's real recent
+- All in a class with a size that's half-decent
+- We needed a less stressful class here somewhere
+- This is that song, yes I really went there
+
+- I'd love to keep that up but there's no way I can do that while actually going into proper detail
+- The TA's are upperclassmen who are friendly and know how to talk with us
+- The classroom isn't a massive lecture hall of 300 people so it's less intimidating
+- Work is lighter on our shoulders
+
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
