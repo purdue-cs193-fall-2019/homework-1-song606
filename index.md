@@ -42,7 +42,7 @@ According to all known laws of aviation, there is no way a bee should be able to
 
 [I don't really know why i'm linking this](fanon.clubpenguinwiki.info)
 
-!(Image)[http://img4.smackjeeves.com/images/uploaded/comics/1/2/h/12hkiwnwplLSph.png]
+!(Image)(http://img4.smackjeeves.com/images/uploaded/comics/1/2/h/12hkiwnwplLSph.png)
 
 - Alpha
 - Beta
